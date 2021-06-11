@@ -21,11 +21,10 @@ nav{
     background-color: rgb(69, 69, 231);
     padding-top: 10px;
     font-size: 10px;
-    font-weight: 300;
+    font-weight: bold;
     color: #ffffff;
     height: 50px;
     margin-bottom: 5px;
-
 }
 .container .nav-bar a{
     color: #ffffff;
